@@ -1,4 +1,8 @@
-# 腾讯广告新线索 → 企业微信群
+# Tencent Ads to WeCom Skill
+
+这是一个可分享的 Codex Skill，用于在 Windows 上安装、测试和维护“腾讯广告新线索 → 企业微信群”自动通知。
+
+在 Codex 中使用：`$tencent-ads-wecom-skill`
 
 该脚本每分钟拉取腾讯广告线索，通过 `leads_id` 去重后发送至企业微信群机器人。
 

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Tencent Ads to WeCom"
+  short_description: "Install Tencent Ads lead alerts in WeCom groups"
+  default_prompt: "Use $tencent-ads-wecom-skill to install or troubleshoot Tencent Ads lead notifications to a WeCom group."
+
