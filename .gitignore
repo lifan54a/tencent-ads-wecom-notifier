@@ -1,0 +1,6 @@
+config.secure.json
+config.key
+state.json
+*.log
+TencentAds-WeCom-Notifier/
+TencentAds-WeCom-Notifier.zip
